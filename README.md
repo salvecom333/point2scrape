@@ -11,6 +11,8 @@ https://ko-fi.com/salvadorcarrillo_c
 
 https://www.buymeacoffee.com/pointperksH
 
+This code is under Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/
+
 To install just install requirements.txt and run the python program. This is a command line interface.
 
 
